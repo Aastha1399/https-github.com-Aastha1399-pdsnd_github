@@ -18,8 +18,6 @@ In this project, Python is used to explore data related to bike share systems fo
 bikeshare.py
 
 
-
-
 ### Credits
 
 -Richard Kalehoff (Udacity mentor)
